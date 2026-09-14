@@ -1,12 +1,22 @@
-   {
-     "name": "Salgados da Dê Gourmet",
-     "short_name": "Salgados da Dê",
-     "description": "Salgados Gourmet Premium em Tarumã SP - Coxinhas, kibes e pastéis artesanais fritos na hora com entrega rápida",
-     "start_url": "/",
-     "display": "standalone",
-     "background_color": "#FFFBF0",
-     "theme_color": "#B8860B",
-     "scope": "/",
-     "lang": "pt-BR",
-     "icons": [72,96,128,144,152,192,384,512]
-   }
+{
+  "name": "Salgados da Dê Gourmet",
+  "short_name": "Salgados da Dê",
+  "description": "Salgados Gourmet Premium em Tarumã SP - Coxinhas, kibes e pastéis artesanais fritos na hora com entrega rápida",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FFFBF0",
+  "theme_color": "#B8860B",
+  "scope": "/",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/pwabuilder-icon-72x72.png", "sizes": "72x72", "type": "image/png", "purpose": "any" },
+    { "src": "/pwabuilder-icon-96x96.png", "sizes": "96x96", "type": "image/png", "purpose": "any" },
+    { "src": "/pwabuilder-icon-128x128.png", "sizes": "128x128", "type": "image/png", "purpose": "any" },
+    { "src": "/pwabuilder-icon-144x144.png", "sizes": "144x144", "type": "image/png", "purpose": "any" },
+    { "src": "/pwabuilder-icon-152x152.png", "sizes": "152x152", "type": "image/png", "purpose": "any" },
+    { "src": "/pwabuilder-icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/pwabuilder-icon-384x384.png", "sizes": "384x384", "type": "image/png", "purpose": "any" },
+    { "src": "/pwabuilder-icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
